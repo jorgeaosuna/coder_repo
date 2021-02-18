@@ -1,0 +1,67 @@
+/* Start variables */
+$base-blue: #00A4CCFF;
+$base-orange:rgb(236, 129, 71);
+
+/* End variables */
+
+.topNav {
+    background-color: $base-blue;
+
+}
+
+.topNav__logo {
+    text-shadow: 1px 1px $base-orange;
+
+}
+
+.topNav__element:hover {
+    background-color: $base-orange;
+}
+
+.rowPrimera_margen {
+    margin-top: 50px;
+}
+
+.formCotiza {
+    border: solid;
+    border-radius: 15px;
+    padding: 15px;
+}
+
+.formCotiza__textInput {
+    -webkit-appearance: none;
+    
+    margin: 0;
+    -moz-appearance: textfield;
+}
+
+.formCotiza__button {
+    background-color: $base-orange;
+    color: white;
+}
+
+.barraMedia {
+    background-color: $base-blue;
+}
+
+.barraMedia__text {
+    color: white;
+}
+
+.containerTituloPreguntasFrecuentes_margen {
+    margin-top: 75px;
+}
+
+.footerMoneyzuela {
+    background-color: $base-blue;
+    color: white;
+}
+
+.footerMoneyzuela__links {
+    color: white;
+}
+
+.footerMoneyzuela__links:hover {
+    color: $base-orange;
+    text-decoration: none;
+}

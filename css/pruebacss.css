@@ -1,0 +1,47 @@
+/* Start variables */
+/* End variables */
+.topNav {
+  background-color: #00A4CCFF; }
+
+.topNav__logo {
+  text-shadow: 1px 1px #ec8147; }
+
+.topNav__element:hover {
+  background-color: #ec8147; }
+
+.rowPrimera_margen {
+  margin-top: 50px; }
+
+.formCotiza {
+  border: solid;
+  border-radius: 15px;
+  padding: 15px; }
+
+.formCotiza__textInput {
+  -webkit-appearance: none;
+  margin: 0;
+  -moz-appearance: textfield; }
+
+.formCotiza__button {
+  background-color: #ec8147;
+  color: white; }
+
+.barraMedia {
+  background-color: #00A4CCFF; }
+
+.barraMedia__text {
+  color: white; }
+
+.containerTituloPreguntasFrecuentes_margen {
+  margin-top: 75px; }
+
+.footerMoneyzuela {
+  background-color: #00A4CCFF;
+  color: white; }
+
+.footerMoneyzuela__links {
+  color: white; }
+
+.footerMoneyzuela__links:hover {
+  color: #ec8147;
+  text-decoration: none; }
